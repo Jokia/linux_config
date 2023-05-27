@@ -1,0 +1,21 @@
+for china:
+	https://mirrors.tuna.tsinghua.edu.cn
+	http://mirrors.ustc.edu.cn
+	
+	
+others:
+	https://downloads.sourceforge.net/project
+	https://mirror.yandex.ru/mirrors
+	http://mirror.bit.edu.cn
+	https://mirror.selfnet.de
+	https://sjtu.edu.cn
+	https://mirror.jmu.edu/pub
+	https://ftp.cc.uoc.gr/mirrors
+	https://ftp.acc.umu.se/mirror/msys2.org
+	https://mirrors.piconew/x86_64/
+	https://quantum-mirror.hu/mirrors/pub
+	https://mirrors.dotsrc.org
+	https://mirror.clarkson.edu
+	https://ftp.nluug.nl/pub/os/windows/msys2/builds
+	https://download.nus.edu.sg/mirror
+	https://fastmirror.pp.ua
