@@ -1,5 +1,5 @@
 # Linux Config
-Linux environment base config.
+This is my personal Linux environment base config for programming.
 
 *   Change Mirror  
 	Add mirror url from "mirror_list.txt" to following file.
