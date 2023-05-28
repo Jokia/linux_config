@@ -1,4 +1,4 @@
-" Vim color file
+" Vim color file theme
 "
 " Author: Tomas Restrepo <tomas@winterdom.com>
 " https://github.com/tomasr/molokai
