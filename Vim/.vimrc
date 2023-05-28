@@ -24,7 +24,7 @@ highlight MatchParen ctermfg=NONE ctermbg=NONE cterm=underline
 highlight Comment ctermfg=green
 
 "syntax enable
-":syntax on
+syntax on
 filetype on
 filetype plugin on
 hi Pmenu ctermfg=green ctermbg=black
