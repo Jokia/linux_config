@@ -12,6 +12,6 @@ This is my personal Linux environment base config for programming.
 	
 *	Change Vim Config  
 		Download ".vimrc" file and copy it to your home directory.  
-		cp \<your download directory\>/.vimrc ~/  
-		
-		install vim plug from https://github.com/junegunn/vim-plug
+		cp \<your download directory\>/.vimrc ~/.  
+		Install vim plug from https://github.com/junegunn/vim-plug.  
+		Go to vim command line mode and type "PlugInstall" to install vim plugs.
